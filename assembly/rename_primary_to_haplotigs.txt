@@ -1,0 +1,10 @@
+000215F|quiver	000011F_021|quiver
+000159F|quiver	000025F_008|quiver
+000167F|quiver	000021F_011|quiver
+000119F|quiver	000008F_017|quiver
+000144F|quiver	000001F_049|quiver
+000101F|quiver	000026F_010|quiver
+000142F|quiver	000032F_005|quiver
+000064F|quiver	000016F_008|quiver
+000115F|quiver	000000F_062|quiver
+000085F|quiver	000009F_013|quiver
